@@ -1,0 +1,3083 @@
+{
+  "SaveName": "Space Marine Special Characters",
+  "GameMode": "Flex Table",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "3/26/2020 8:48:52 PM",
+  "Table": "Table_None",
+  "Sky": "Sky_Museum",
+  "Note": "[b]Flex Table[/b]\n\nClick the white button on the leg near the white seat to view your options.\n\nChange the tabletop image.\nSave a tabletop image for quick recall.\nChange the width and depth of the table.\n\n\n\n\n\n\n\n\n\n\n\n\nThis table is actually made up of multiple bits, so you can't save+import it into another room. But you can bring the items from another room into here.",
+  "Rules": "",
+  "XmlUI": "<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->",
+  "LuaScript": "--",
+  "LuaScriptState": "",
+  "MusicPlayer": {
+    "RepeatSong": true,
+    "PlaylistEntry": -1,
+    "CurrentAudioTitle": "Ultramarines Chant",
+    "CurrentAudioURL": "http://cloud-3.steamusercontent.com/ugc/773976977327440295/17C1CAA1F70F178395E93C05E55946061E695598/",
+    "AudioLibrary": [
+      {
+        "Item1": "http://cloud-3.steamusercontent.com/ugc/773976977327440295/17C1CAA1F70F178395E93C05E55946061E695598/",
+        "Item2": "Ultramarines Chant"
+      }
+    ]
+  },
+  "Grid": {
+    "Type": 0,
+    "Lines": false,
+    "Color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "Opacity": 0.75,
+    "ThickLines": false,
+    "Snapping": false,
+    "Offset": false,
+    "BothSnapping": false,
+    "xSize": 2.0,
+    "ySize": 2.0,
+    "PosOffset": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    }
+  },
+  "Lighting": {
+    "LightIntensity": 0.54,
+    "LightColor": {
+      "r": 1.0,
+      "g": 0.9804,
+      "b": 0.8902
+    },
+    "AmbientIntensity": 1.3,
+    "AmbientType": 0,
+    "AmbientSkyColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "AmbientEquatorColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "AmbientGroundColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "ReflectionIntensity": 1.0,
+    "LutIndex": 0,
+    "LutContribution": 1.0
+  },
+  "Hands": {
+    "Enable": true,
+    "DisableUnused": false,
+    "Hiding": 0,
+    "HandTransforms": [
+      {
+        "Color": "White",
+        "Transform": {
+          "posX": 0.0,
+          "posY": 5.0,
+          "posZ": -19.7499981,
+          "rotX": 0.0,
+          "rotY": 0.0,
+          "rotZ": 0.0,
+          "scaleX": 11.8350019,
+          "scaleY": 7.002465,
+          "scaleZ": 4.04115963
+        }
+      },
+      {
+        "Color": "Red",
+        "Transform": {
+          "posX": -37.75,
+          "posY": 5.0,
+          "posZ": 0.0,
+          "rotX": 0.0,
+          "rotY": 90.0,
+          "rotZ": 0.0,
+          "scaleX": 11.7407732,
+          "scaleY": 7.0,
+          "scaleZ": 4.080897
+        }
+      },
+      {
+        "Color": "Green",
+        "Transform": {
+          "posX": 0.0,
+          "posY": 5.0,
+          "posZ": 19.7499981,
+          "rotX": 0.0,
+          "rotY": 180.0,
+          "rotZ": 0.0,
+          "scaleX": 11.8350019,
+          "scaleY": 7.0,
+          "scaleZ": 4.041209
+        }
+      },
+      {
+        "Color": "Blue",
+        "Transform": {
+          "posX": 37.75,
+          "posY": 5.0,
+          "posZ": 0.0,
+          "rotX": 0.0,
+          "rotY": 270.0,
+          "rotZ": 0.0,
+          "scaleX": 11.7405519,
+          "scaleY": 7.0,
+          "scaleZ": 4.08082438
+        }
+      }
+    ]
+  },
+  "Turns": {
+    "Enable": false,
+    "Type": 0,
+    "TurnOrder": [],
+    "Reverse": false,
+    "SkipEmpty": false,
+    "DisableInteractions": false,
+    "PassTurns": true,
+    "TurnColor": ""
+  },
+  "ObjectStates": [
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -18.0,
+        "posY": -9.0,
+        "posZ": 0.0,
+        "rotX": 6.536436E-07,
+        "rotY": -2.39176334E-05,
+        "rotZ": -3.84849864E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978795929/723C50F43FAB3DE3DC12CB8460536E8CB34B60A3/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 2,
+        "TypeIndex": 4,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "afc863"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -18.0,
+        "posY": -9.0,
+        "posZ": 0.0,
+        "rotX": 6.536436E-07,
+        "rotY": 90.0,
+        "rotZ": -3.84849864E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978795929/723C50F43FAB3DE3DC12CB8460536E8CB34B60A3/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 2,
+        "TypeIndex": 4,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "c8edca"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 18.0,
+        "posY": -9.0,
+        "posZ": 0.0,
+        "rotX": 6.536436E-07,
+        "rotY": 180.0,
+        "rotZ": -3.84849864E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978795929/723C50F43FAB3DE3DC12CB8460536E8CB34B60A3/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 2,
+        "TypeIndex": 4,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "393bf7"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 18.0,
+        "posY": -9.0,
+        "posZ": 0.0,
+        "rotX": 6.536436E-07,
+        "rotY": 270.0,
+        "rotZ": -3.84849864E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978795929/723C50F43FAB3DE3DC12CB8460536E8CB34B60A3/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 2,
+        "TypeIndex": 4,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "12c65e"
+    },
+    {
+      "Name": "Chinese_Checkers_Piece",
+      "Transform": {
+        "posX": 37.1600037,
+        "posY": -0.259998322,
+        "posZ": -22.12,
+        "rotX": 0.00190076465,
+        "rotY": 180.0,
+        "rotZ": 0.000379891542,
+        "scaleX": 1.6499995,
+        "scaleY": 1.6499995,
+        "scaleZ": 1.6499995
+      },
+      "Nickname": "Flex Table Control",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": false,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": 1,
+      "XmlUI": "",
+      "LuaScript": "tableHeightOffset = -9\n\nfunction onSave()\n    saved_data = JSON.encode({tid=tableImageData, cd=checkData})\n    --saved_data = \"\"\n    return saved_data\nend\n\nfunction onload(saved_data)\n    --Loads the tracking for if the game has started yet\n    if saved_data ~= \"\" then\n         local loaded_data = JSON.decode(saved_data)\n         tableImageData = loaded_data.tid\n         checkData = loaded_data.cd\n    else\n        tableImageData = {}\n        checkData = {move=false, scale=false}\n    end\n\n    --Disables interactable status of objects with GUID in list\n    for _, guid in ipairs(ref_noninteractable) do\n        local obj = getObjectFromGUID(guid)\n        if obj then obj.interactable = false end\n    end\n\n    --Establish references to table parts\n    obj_leg1 = getObjectFromGUID(\"afc863\")\n    obj_leg2 = getObjectFromGUID(\"c8edca\")\n    obj_leg3 = getObjectFromGUID(\"393bf7\")\n    obj_leg4 = getObjectFromGUID(\"12c65e\")\n    obj_surface = getObjectFromGUID(\"4ee1f2\")\n    obj_side_top = getObjectFromGUID(\"35b95f\")\n    obj_side_bot = getObjectFromGUID(\"f938a2\")\n    obj_side_lef = getObjectFromGUID(\"9f95fd\")\n    obj_side_rig = getObjectFromGUID(\"5af8f2\")\n\n    controlActive = false\n    createOpenCloseButton()\nend\n\n\n\n--Activation/deactivation of control panel\n\n\n\n--Activated by clicking on\nfunction click_toggleControl(_, color)\n    if permissionCheck(color) then\n        if not controlActive then\n            --Activate control panel\n            controlActive = true\n            self.clearButtons()\n            createOpenCloseButton()\n            createSurfaceInput()\n            createSurfaceButtons()\n            createScaleInput()\n            createScaleButtons()\n        else\n            --Deactivate control panel\n            controlActive = false\n            self.clearButtons()\n            self.clearInputs()\n            createOpenCloseButton()\n\n        end\n    end\nend\n\n\n\n\n--Table surface control\n\n\n\n--Changes table surface\nfunction click_applySurface(_, color)\n    if permissionCheck(color) then\n        updateSurface()\n        broadcastToAll(\"New Table Image Applied\", {0.2,0.9,0.2})\n    end\nend\n\n--Saves table surface\nfunction click_saveSurface(_, color)\n    if permissionCheck(color) then\n        local nickname = self.getInputs()[1].value\n        local url = self.getInputs()[2].value\n        if nickname == \"\" then\n            --No nickname\n            broadcastToAll(\"Please supply a nickname for this save.\", {0.9,0.2,0.2})\n        else\n            --Nickname exists\n\n            if findInImageDataIndex(url, nickname) == nil then\n                --Save doesn't exist already\n                table.insert(tableImageData, {url=url, name=nickname})\n                broadcastToAll(\"Image URL saved to memory.\", {0.2,0.9,0.2})\n                --Refresh buttons\n                self.clearButtons()\n                createOpenCloseButton()\n                createSurfaceButtons()\n                createScaleButtons()\n            else\n                --Save exists already\n                broadcastToAll(\"Memory already contains a save with this Name or URL. Delete it first.\", {0.9,0.2,0.2})\n            end\n        end\n    end\nend\n\n--Loads table surface\nfunction click_loadMemory(_, color, index)\n    if permissionCheck(color) then\n        self.editInput({index=0, value=tableImageData[index].name})\n        self.editInput({index=1, value=tableImageData[index].url})\n        updateSurface()\n        broadcastToAll(\"Table Image Loaded\", {0.2,0.9,0.2})\n    end\nend\n\n--Deletes table surface\nfunction click_deleteMemory(_, color, index)\n    if permissionCheck(color) then\n        table.remove(tableImageData, index)\n        self.clearButtons()\n        createOpenCloseButton()\n        createSurfaceButtons()\n        createScaleButtons()\n        broadcastToAll(\"Element Removed from Memory\", {0.2,0.9,0.2})\n    end\nend\n\n--Updates surface from the values in the input field\nfunction updateSurface()\n    local customInfo = obj_surface.getCustomObject()\n    customInfo.diffuse = self.getInputs()[2].value\n    obj_surface.setCustomObject(customInfo)\n    obj_surface = obj_surface.reload()\nend\n\n\n\n--Table Scale control\n\n\n\n--Applies Scale to table pieces\nfunction click_applyScale(_, color)\n    if permissionCheck(color) then\n        local newWidth = tonumber(self.getInputs()[3].value)\n        local newDepth = tonumber(self.getInputs()[4].value)\n        if type(newWidth) ~= \"number\" then\n            broadcastToAll(\"Invalid Width\", {0.9,0.2,0.2})\n            return\n        elseif type(newDepth) ~= \"number\" then\n            broadcastToAll(\"Invalid Depth\", {0.9,0.2,0.2})\n            return\n        elseif newWidth<0.1 or newDepth<0.1 then\n            broadcastToAll(\"Scale cannot go below 0.1\", {0.9,0.2,0.2})\n            return\n        elseif newWidth>12 or newDepth>12 then\n            broadcastToAll(\"Scale should not go over 12 (world size limitation)\", {0.9,0.2,0.2})\n            return\n        else\n            changeTableScale(math.abs(newWidth), math.abs(newDepth))\n            broadcastToAll(\"Scale applied.\", {0.2,0.9,0.2})\n        end\n    end\nend\n\n--Checks/unchecks move box for hands\nfunction click_checkMove(_, color)\n    if permissionCheck(color) then\n        local find_func = function(o) return o.click_function==\"click_checkMove\" end\n        if checkData.move == true then\n            checkData.move = false\n            local buttonEntry = findButton(self, find_func)\n            self.editButton({index=buttonEntry.index, label=\"\"})\n        else\n            checkData.move = true\n            local buttonEntry = findButton(self, find_func)\n            self.editButton({index=buttonEntry.index, label=string.char(10008)})\n        end\n    end\nend\n\n--Checks/unchecks scale box for hands\n--This button was disabled for technical reasons\n--[[\nfunction click_checkScale(_, color)\n    if permissionCheck(color) then\n        local find_func = function(o) return o.click_function==\"click_checkScale\" end\n        if checkData.scale == true then\n            checkData.scale = false\n            local buttonEntry = findButton(self, find_func)\n            self.editButton({index=buttonEntry.index, label=\"\"})\n        else\n            checkData.scale = true\n            local buttonEntry = findButton(self, find_func)\n            self.editButton({index=buttonEntry.index, label=string.char(10008)})\n        end\n    end\nend\n]]\n\n--Alters scale of elements and moves them\nfunction changeTableScale(width, depth)\n    --Scaling factors used to translate scale to position offset\n    local width2pos = (width-1) * 18\n    local depth2pos = (depth-1) * 18\n\n    --Hand zone movement\n    if checkData.move == true then\n        for _, pc in ipairs(ref_playerColor) do\n            if Player[pc].getHandCount() > 0 then\n                moveHandZone(Player[pc], width2pos, depth2pos)\n            end\n        end\n    end\n    --Hand zone scaling\n    --The button to enable this was disabled for technical reasons\n    if checkData.scale == true then\n        for _, pc in ipairs(ref_playerColor) do\n            if Player[pc].getHandCount() > 0 then\n                scaleHandZone(Player[pc], width, depth)\n            end\n        end\n    end\n\n    --Resizing table elements\n    obj_side_top.setScale({width, 1, 1})\n    obj_side_bot.setScale({width, 1, 1})\n    obj_side_lef.setScale({depth, 1, 1})\n    obj_side_rig.setScale({depth, 1, 1})\n    obj_surface.setScale({width, 1, depth})\n\n    --Moving table elements to accomodate new scale\n    obj_side_lef.setPosition({-width2pos,tableHeightOffset,0})\n    obj_side_rig.setPosition({ width2pos,tableHeightOffset,0})\n    obj_side_top.setPosition({0,tableHeightOffset, depth2pos})\n    obj_side_bot.setPosition({0,tableHeightOffset,-depth2pos})\n    obj_leg1.setPosition({-width2pos,tableHeightOffset,-depth2pos})\n    obj_leg2.setPosition({-width2pos,tableHeightOffset, depth2pos})\n    obj_leg3.setPosition({ width2pos,tableHeightOffset, depth2pos})\n    obj_leg4.setPosition({ width2pos,tableHeightOffset,-depth2pos})\n    self.setPosition(obj_leg4.positionToWorld({-22.12, 8.74,-19.16}))\n    --Only enabled when changing tableHeightOffset\n    --obj_surface.setPosition({0,tableHeightOffset,0})\nend\n\n--Move hand zone, p=player reference, facts are scaling factors\nfunction moveHandZone(p, width2pos, depth2pos)\n    local widthX = obj_side_rig.getPosition().x\n    local depthZ = obj_side_top.getPosition().z\n    for i=1, p.getHandCount() do\n        local handT = p.getHandTransform()\n        local pos = handT.position\n        local y = handT.rotation.y\n\n        if y<45 or y>320 or y>135 and y<225 then\n            if pos.z > 0 then\n                pos.z = pos.z + depth2pos - depthZ\n            else\n                pos.z = pos.z - depth2pos + depthZ\n            end\n        else\n            if pos.x > 0 then\n                pos.x = pos.x + width2pos - widthX\n            else\n                pos.x = pos.x - width2pos + widthX\n            end\n        end\n\n        --Only enabled when changing tableHeightOffset\n        --pos.y = tableHeightOffset + 14\n\n        handT.position = pos\n        p.setHandTransform(handT, i)\n    end\nend\n\n\n---Scales hand zones, p=player reference, facts are scaling factors\nfunction scaleHandZone(p, width, depth)\n    local widthFact = width / obj_side_top.getScale().x\n    local depthFact = depth / obj_side_lef.getScale().x\n    for i=1, p.getHandCount() do\n        local handT = p.getHandTransform()\n        local scale = handT.scale\n        local y = handT.rotation.y\n        if y<45 or y>320 or y>135 and y<225 then\n            scale.x = scale.x * widthFact\n        else\n            scale.x = scale.x * depthFact\n        end\n        handT.scale = scale\n        p.setHandTransform(handT, i)\n    end\nend\n\n\n\n--Information gathering\n\n\n\n--Checks if a color is promoted or host\nfunction permissionCheck(color)\n    if Player[color].host==true or Player[color].promoted==true then\n        return true\n    else\n        return false\n    end\nend\n\n--Locates a string saved within memory file\nfunction findInImageDataIndex(...)\n    for _, str in ipairs({...}) do\n        for i, v in ipairs(tableImageData) do\n            if v.url == str or v.name == str then\n                return i\n            end\n        end\n    end\n    return nil\nend\n\n--Round number (num) to the Nth decimal (dec)\nfunction round(num, dec)\n  local mult = 10^(dec or 0)\n  return math.floor(num * mult + 0.5) / mult\nend\n\n--Locates a button with a helper function\nfunction findButton(obj, func)\n    if func==nil then error(\"No func supplied to findButton\") end\n    for _, v in ipairs(obj.getButtons()) do\n        if func(v) then\n            return v\n        end\n    end\n    return nil\nend\n\n\n\n--Creation of buttons/inputs\n\n\n\nfunction createOpenCloseButton()\n    local tooltip = \"Open Table Control Panel\"\n    if controlActive then\n        tooltip = \"Close Table Control Panel\"\n    end\n    self.createButton({\n        click_function=\"click_toggleControl\", function_owner=self,\n        position={0,0,0}, rotation={-45,0,0}, height=400, width=400,\n        color={1,1,1,0}, tooltip=tooltip\n    })\nend\n\nfunction createSurfaceInput()\n    local currentURL = obj_surface.getCustomObject().diffuse\n    local nickname = \"\"\n    if findInImageDataIndex(currentURL) ~= nil then\n        nickname = tableImageData[findInImageDataIndex(currentURL)].name\n    end\n    self.createInput({\n        label=\"Nickname\", input_function=\"none\", function_owner=self,\n        alignment=3, position={0,0,2}, height=224, width=4000,\n        font_size=200, tooltip=\"Enter nickname for table image (only used for save)\",\n        value=nickname\n    })\n    self.createInput({\n        label=\"URL\", input_function=\"none\", function_owner=self,\n        alignment=3, position={0,0,3}, height=224, width=4000,\n        font_size=200, tooltip=\"Enter URL for tabletop image\",\n        value=currentURL\n    })\nend\n\nfunction createSurfaceButtons()\n    --Label\n    self.createButton({\n        label=\"Tabletop Surface Image\", click_function=\"none\",\n        position={0,0,1}, height=0, width=0, font_size=300, font_color={1,1,1}\n    })\n    --Functional\n    self.createButton({\n        label=\"Apply Image\\nTo Table\", click_function=\"click_applySurface\",\n        function_owner=self, tooltip=\"Apply URL as table image\",\n        position={2,0,4}, height=440, width=1400, font_size=200,\n    })\n    self.createButton({\n        label=\"Save Image\\nTo Memory\", click_function=\"click_saveSurface\",\n        function_owner=self, tooltip=\"Record URL into memory (requires nickname)\",\n        position={-2,0,4}, height=440, width=1400, font_size=200,\n    })\n    --Label\n    self.createButton({\n        label=\"Load From Memory\", click_function=\"none\",\n        position={0,0,5.5}, height=0, width=0, font_size=300, font_color={1,1,1}\n    })\n    --Saves, created dynamically from memory file\n    for i, memoryEntry in ipairs(tableImageData) do\n        --Load\n        local funcName = i..\"loadMemory\"\n        local func = function(x,y) click_loadMemory(x,y,i) end\n        self.setVar(funcName, func)\n        self.createButton({\n            label=memoryEntry.name, click_function=funcName,\n            function_owner=self, tooltip=memoryEntry.url, font_size=200,\n            position={-0.6,0,6.5+0.5*(i-1)}, height=240, width=3300,\n        })\n        --Delete\n        local funcName = i..\"deleteMemory\"\n        local func = function(x,y) click_deleteMemory(x,y,i) end\n        self.setVar(funcName, func)\n        self.createButton({\n            label=\"DELETE\", click_function=funcName,\n            function_owner=self, tooltip=\"\",\n            position={3.6,0,6.5+0.5*(i-1)}, height=240, width=600,\n            font_size=160, font_color={1,0,0}, color={0.8,0.8,0.8}\n        })\n    end\nend\n\nfunction createScaleInput()\n    self.createInput({\n        label=string.char(8644), input_function=\"none\", function_owner=self,\n        alignment=3, position={-8.5,0,2}, height=224, width=400,\n        font_size=200, tooltip=\"Table Width\",\n        value=round(obj_side_top.getScale().x, 1)\n    })\n    self.createInput({\n        label=string.char(8645), input_function=\"none\", function_owner=self,\n        alignment=3, position={-7.5,0,2}, height=224, width=400,\n        font_size=200, tooltip=\"Table Depth\",\n        value=round(obj_side_lef.getScale().x, 1)\n    })\nend\n\nfunction createScaleButtons()\n    --Labels\n    self.createButton({\n        label=\"Table Scale\", click_function=\"none\",\n        position={-8,0,1}, height=0, width=0, font_size=300, font_color={1,1,1}\n    })\n    self.createButton({\n        label=string.char(8644)..\"            \"..string.char(8645),\n        click_function=\"none\",\n        position={-8,0,2}, height=0, width=0, font_size=300, font_color={1,1,1}\n    })\n    self.createButton({\n        label=\"Move Hands:\", click_function=\"none\",\n        position={-8.3,0,3}, height=0, width=0, font_size=200, font_color={1,1,1}\n    })\n    --Disabled due to me removing the feature for technical reasons\n    --[[\n    self.createButton({\n        label=\"Scale Hands:\", click_function=\"none\",\n        position={-8.3,0,4}, height=0, width=0, font_size=200, font_color={1,1,1}\n    })\n    ]]\n    --Checkboxes\n    local label = \"\"\n    if checkData.move == true then label = string.char(10008) end\n    self.createButton({\n        label=label, click_function=\"click_checkMove\",\n        function_owner=self, tooltip=\"Check to move hands when table is rescaled\",\n        position={-6.8,0,3}, height=224, width=224, font_size=200,\n    })\n    --[[\n    local label = \"\"\n    if checkData.scale == true then label = string.char(10008) end\n    self.createButton({\n        label=label, click_function=\"click_checkScale\",\n        function_owner=self, tooltip=\"Check to scale the width of hands when table is rescaled\",\n        position={-6.8,0,4}, height=224, width=224, font_size=200,\n    })\n    ]]\n    --Apply button\n    self.createButton({\n        label=\"Apply Scale\", click_function=\"click_applyScale\",\n        function_owner=self, tooltip=\"Apply width/depth to table\",\n        position={-8,0,4}, height=440, width=1400, font_size=200,\n    })\nend\n\n\n\n\n\n--Data tables\n\n\n\n\nref_noninteractable = {\n    \"afc863\",\"c8edca\",\"393bf7\",\"12c65e\",\"f938a2\",\"9f95fd\",\"35b95f\",\n    \"5af8f2\",\"4ee1f2\",\"bd69bd\"\n}\n\nref_playerColor = {\n    \"White\", \"Brown\", \"Red\", \"Orange\", \"Yellow\",\n    \"Green\", \"Teal\", \"Blue\", \"Purple\", \"Pink\", \"Black\"\n}\n\n--Dummy function, absorbs unwanted triggers\nfunction none() end\n",
+      "LuaScriptState": "{\"cd\":{\"move\":true,\"scale\":false},\"tid\":[{\"name\":\"Felt - Green\",\"url\":\"https://i.imgur.com/eHXDjyy.jpg\"},{\"name\":\"Felt - Red\",\"url\":\"https://i.imgur.com/DbPelDi.jpg\"},{\"name\":\"Felt - Grey\",\"url\":\"https://i.imgur.com/N0O6aqj.jpg\"}]}",
+      "GUID": "bd69bd"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 0.0,
+        "posY": -9.0,
+        "posZ": 0.0,
+        "rotX": -1.01777751E-13,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 2.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978796471/14ED0DBD593370733A0309B0950004F33EB9FACA/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 1,
+        "TypeIndex": 4,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "f938a2"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -18.0,
+        "posY": -9.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 90.0,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978796471/14ED0DBD593370733A0309B0950004F33EB9FACA/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 1,
+        "TypeIndex": 4,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "9f95fd"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 0.0,
+        "posY": -9.0,
+        "posZ": 0.0,
+        "rotX": -1.01777751E-13,
+        "rotY": 180.0,
+        "rotZ": 0.0,
+        "scaleX": 2.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978796471/14ED0DBD593370733A0309B0950004F33EB9FACA/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 1,
+        "TypeIndex": 4,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "35b95f"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": 18.0,
+        "posY": -9.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 270.0,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978796471/14ED0DBD593370733A0309B0950004F33EB9FACA/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 1,
+        "TypeIndex": 4,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5af8f2"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.0,
+        "posY": -9.0,
+        "posZ": 0.0,
+        "rotX": 359.983124,
+        "rotY": -0.00189453643,
+        "rotZ": 359.920135,
+        "scaleX": 2.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/879750610978796176/4A5A65543B98BCFBF57E910D06EC984208223D38/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/769481639410724183/FF91D48AB5415E01B8E9EFF7E2421C05AE05ACD2/",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 4,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "4ee1f2"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -14.4334831,
+        "posY": 1.50170064,
+        "posZ": 0.236293137,
+        "rotX": 359.945435,
+        "rotY": 330.001038,
+        "rotZ": 359.93927,
+        "scaleX": 1.53915489,
+        "scaleY": 1.37806273,
+        "scaleZ": 1.53915489
+      },
+      "Nickname": "8/8 Marneus Calgar",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n6\"  2+  2+  4  5  8   6   9   2+\r\n[00A3FF]Weapons[-]\r\nThe Gauntlets of Ultramar (Shooting)\r\n24’’  Rapid Fire 2  S4  AP-1  D2\r\nThe Gauntlets of Ultramar (Melee)\r\nMelee  Sx2  AP-3  Dd3\r\n[00A3FF]Abilities[-]\r\nCodex Discipline\r\nAngels of Death\r\nArmour of Heraclus\r\nMaster Tactician\r\nChapter Master\r\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9146341,
+        "g": 0.9146341,
+        "b": 0.9146341
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/936084291454629181/5D186F6242AA732542ED74720B4CEF870F531AC8/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/936084291454629760/ED6BC64D43AB8170459F83C0376EBA0AA5069278/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785235974151687692/CD16ABEBCD9629BAC7E4420D5DCC44D92C2586DD/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "254e12"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -14.9487352,
+        "posY": 1.51759326,
+        "posZ": 3.02815557,
+        "rotX": 0.0168656837,
+        "rotY": 180.001175,
+        "rotZ": 0.07988728,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Astorath the Grim ",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/787496483806620204/1FA80BD582A35BDD349F4EFEE392B27912F94BF6/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787496483806647228/7F998BA01F75372CD9C1C9F9498B513BC824FE48/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/937181570521795626/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "6a1185"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -11.4934731,
+        "posY": 1.49764335,
+        "posZ": 0.378416777,
+        "rotX": 359.9831,
+        "rotY": -0.00125884055,
+        "rotZ": 359.920074,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "(9/9) Robout Guilliman",
+      "Description": "M  WS BS  S  T  W  A  LD   SV\r\n8\"  2+  2+  6  6  9  6   10   2+\r\n[00A3FF]Weapons[-]\r\nThe Hand of Dominion (Shooting)\r\n24’’  Rapid Fire 3  S6  AP-1  D2\r\nThe Hand of Dominion (Melee)\r\nMelee  Sx2  AP-3  D4\r\nThe Emperor’s Sword\r\nMelee  S+2  AP-4  D3  Sp*\r\n[00A3FF]Abilities[-]\r\nCodex Discipline\r\nAngels of Death\r\nArmour of Fate\r\nAuthor of the Codex\r\nMaster of Battle\r\nXIII Primarch\r\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/2425628008274731433/4311122F33482D4915EA4FE590225F9FF54E66A8/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 1
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "8a031f"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -13.229105,
+        "posY": 1.515216,
+        "posZ": 3.09705353,
+        "rotX": 0.0169042367,
+        "rotY": 179.984665,
+        "rotZ": 0.0798639655,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Brother Corbulo 3/3 ",
+      "Description": "WS 5\nBS 4\nS 4\nT 4\nW 2\nI 4\nA 2\nLD 10\nSave 3+\n\nBolt Pistol\r 12\"\r S4\r AP5\r\nPistol,",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/80340029170884816/879401A9242CC955FF9F393FF29A268D911ABD0F/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001586/EE905CE53DD1492275DFC99F7ACEB1B8768F6079/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "16955a"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -11.4684258,
+        "posY": 1.51272082,
+        "posZ": 2.959786,
+        "rotX": 359.9554,
+        "rotY": 225.006439,
+        "rotZ": 0.06840658,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Captain Tycho 3/3",
+      "Description": "WS 6\nBS 5\nS 4\nT 4\nW 3\nI 5\nA 3\nLD 10\nSave 2+/4++\n\nBlood Song\r 24\"\r S4\r AP4\r\nRapid-fire,Master crafted\n\nBlood Song (melta) 18\" S8 AP1\nAssault 1, Melta, Master-crafted, One Use Only",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/80340029170890773/B8962F7FDE64D37E4ED7E37A8280EF66B05F6195/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504189454029268/390DC905AA21C99E7DE30F3C4FB03FBE02D0F3A9/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "90b086"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -9.018612,
+        "posY": 1.47839177,
+        "posZ": 0.295809835,
+        "rotX": 0.00437155133,
+        "rotY": 15.0019026,
+        "rotZ": 359.918335,
+        "scaleX": 0.450000376,
+        "scaleY": 0.450000376,
+        "scaleZ": 0.450000376
+      },
+      "Nickname": "4/4 Sergeant Chronus",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n6\"  3+  2+  4  4  4   2   8   3+\r\n[00A3FF]Abilities[-]\r\nCodex Discipline\r\nAngels of Death\r\nTank Commander\r\n--RHINO\r\n--RAZORBACK\r\n--PREDATOR\r\n--VINDICATOR\r\n--WHIRLWIND\r\n--HUNTER\r\n--STALKER\r\n--LANDRAIDER\r\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/938321411915151157/A60E0D2073295FE68A41004B804D10AF5D4DD7DD/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/785236219276007456/AC58FBEC5D563773958357A0E0B84E272E96A6BC/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/860600076599970459/63DCE9AC3764BA2A92A8EBFC6B60E4669BECFE38/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "cd3dcc"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -9.711147,
+        "posY": 1.51033509,
+        "posZ": 3.17800164,
+        "rotX": 0.0169176329,
+        "rotY": 179.976913,
+        "rotZ": 0.0798608661,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Commander Dante 4/4",
+      "Description": "WS 6\nBS 5\nS 4\nT 4\nW 4\nI 6\nA 4\nLD 10\nSave 2+/4++\n\nInferno Pistol\r 6\"\r S8\r AP1\r\nPistol,Melta\n\nThe Axe Mortalis S+2 AP2\nMelee,Master crafted",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/80340029170891363/FCE1B4B22699DA69711FF06F15671E96F23C4E65/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504189454029348/CC265D5C601D06EFAE0C3BFAAF7BB0AA7F2E95C8/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "46b927"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -12.2114677,
+        "posY": 1.48171461,
+        "posZ": -3.53602219,
+        "rotX": -0.00439313054,
+        "rotY": 194.999832,
+        "rotZ": 0.08152837,
+        "scaleX": 0.450000465,
+        "scaleY": 0.450000465,
+        "scaleZ": 0.450000465
+      },
+      "Nickname": "Vulkan He'Stan",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/769478917122873584/A3DC3ECF2C41962676B5E21924F30AF4833EE3F2/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/849347022567954741/0205235387FD58567B2DFF86BBB2BA9CFE12495D/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/860600493687499355/0830D7A8D39BE4B9D62E9D1829CE649CC9B23EAB/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "973aa2"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -9.71997,
+        "posY": 1.494047,
+        "posZ": -3.43968439,
+        "rotX": 0.0168676488,
+        "rotY": 179.999786,
+        "rotZ": 0.0798783,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Bray'arth Ashmantle",
+      "Description": "\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": false,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/772858159965064478/1B0C6B970892333EF416AF83F9CBC62335B531C2/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/767228604591496539/3A1EAE2F73B5EA4CF8DFEF1D7CFECFBB5C92825C/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785235974151688465/2F4C3FDE994882435A6F37D1AE11CBDA63A9CB24/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "495a0f"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -7.334078,
+        "posY": 1.49185073,
+        "posZ": 0.397907823,
+        "rotX": 0.0168673843,
+        "rotY": 180.000626,
+        "rotZ": 0.0798781142,
+        "scaleX": 6.75000525,
+        "scaleY": 6.75000525,
+        "scaleZ": 6.75000525
+      },
+      "Nickname": "4/4 Sergeant Telion",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n7\"  3+  2+  4  4  4   2   8   4+\r\n[00A3FF]Abilities[-]\r\nCodex Discipline\r\nAngels of Death\r\nVoice of Experience\r\nCamo Cloak\r\nConcealed Positions\r\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/927051318431243596/481C27F45F622CFA6F7F9FD44A7360CB06E4BA52/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/927051318431246280/013C39E970249170B21F841EDD466E546ECFF113/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/927051318431243908/560C0D55297769AB242947634E8F31C9794CE257/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "0f680b"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -6.59669161,
+        "posY": 1.48742914,
+        "posZ": -3.34626412,
+        "rotX": 359.93924,
+        "rotY": 240.002411,
+        "rotZ": 0.05453404,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "6/6 Adrax Agatone",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n6\"  2+  2+  4  4  6   5   9    2+\r\n[5ACFFF]Weapons[-]\r\n-Drakkis\r\nAssault d6 12\" S4 AP-1 D1 Sp* \n-Malleus Noctum\nMelee Sx2  AP-3  D4 Sp*\nFrag & Krak Grenades\r\r\r\r\r\r\r\r\n[B41919]Abilities[-]\r\nAngels of Death\nIron Halo\nRites of Battle\nUnto the Anvil\nArridian Drakehide Cloak",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/763849701488344891/FE82924F6E840319AD144A1FC3D4E3CA21C9661C/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/763849701488345311/8C63DC3FDCDA6A4D874611FF19A29D084039D579/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/769481639410724294/DE623BD66F73B5BAEA303E463D9ECB77B0FB1687/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "2a64e2"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -7.81842041,
+        "posY": 1.507693,
+        "posZ": 3.16677165,
+        "rotX": 0.0369762145,
+        "rotY": 164.999542,
+        "rotZ": 0.07279032,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Lemartes, Guardian of the Lost 2/2",
+      "Description": "WS 5\nBS 4\nS 4\nT 4\nW 2\nI 6\nA 2\nLD 10\nSave 3+/4++\n\nBolt Pistol\r 12\"\r S4\r AP5\r\nPistol\n\nThe Blood Crozius S+2 AP4\nMelee, Concussive, Master-crafted",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/80340029170892064/209AC1D57F43A0FA2F2F7D4B2CD9E753A0B3FE68/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504189454029444/4DB07F477DA9B99C0E4BF009958B4E7CAFCD59F2/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "67bb1c"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -13.9043016,
+        "posY": 1.50592566,
+        "posZ": -3.6238122,
+        "rotX": 0.0168636627,
+        "rotY": 180.000015,
+        "rotZ": 0.0798736,
+        "scaleX": 0.4250004,
+        "scaleY": 0.4250004,
+        "scaleZ": 0.4250004
+      },
+      "Nickname": "Captain Pellas Mir'san",
+      "Description": "\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/849346783103006454/A6487EE55DAC10086B995D9DD088F60F2FF1AE1E/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/767228901472485351/E22C76CA2C6EF0B3A8F4E51CB11511565F0620E5/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785235974151687516/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "0904d3"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -6.137464,
+        "posY": 1.48921514,
+        "posZ": 3.33694744,
+        "rotX": -0.00441032648,
+        "rotY": 195.001633,
+        "rotZ": 0.0815318,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "6/6 Mephiston, Lord of Death",
+      "Description": "M  WS BS  S   T  W  A  LD  SV\r\n7\"  2+  2+  5  5   6   5   9    2+\r\n[5ACFFF]Weapons[-]\r\n-Plasma Pistol\r\nPistol 1  12\"  S7  AP-3  D1\nPistol 1  12\"  S8  AP-3  D2 Sp*\n-Vitarus\nMelee Sx2  AP-3  Dd3\r\r\n-Frag & Krak Grenades\r\r\r\n[52FF33]Psychic Skills[-]\r\nCast 2 | Deny 2 | Knows 3\r\r\r\n[B41919]Abilities[-]\r\nRed Thirst\nSavage Echoes\nAngels of Death\nPsychic Hood\nMaster of Prescience",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/787496483806680745/17447B03F1A4B652DFA9585892D74D450B47631C/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/781867815135195880/74292D9649DD3BCB65AD753432C4A11C849A815A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785235625068021202/DE623BD66F73B5BAEA303E463D9ECB77B0FB1687/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "e49c94"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -4.25943232,
+        "posY": 1.51072943,
+        "posZ": -3.517547,
+        "rotX": -0.00438468624,
+        "rotY": 194.996872,
+        "rotZ": 0.08152361,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Captain Lysander",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": false,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/769478917112418766/EA52064EEA74D8D90541CDD03C3D416171D000C4/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/928178801505472426/70ED58107426843B179F52AFC6523046C37EE280/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189453996327/151C0C2E002904F1B7C92B96B9CBD5930808F86A/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "4a3eda"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -5.16540527,
+        "posY": 1.48886538,
+        "posZ": 0.5252809,
+        "rotX": 0.07760533,
+        "rotY": 119.999489,
+        "rotZ": 0.0253149457,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "3/3 Victrix Guard",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n6\"  2+  3+  4  4  3   4   9   2+\r\n[00A3FF]Weapons[-]\r\nPower Sword\r\nMelee  S User  AP-3  D1\r\nFrag Grenades\r\n6’’  Grenade d6  S3  AP0  D1\r\nKrak Grenades\r\n6’’  Grenade 1  S6  AP-1  Dd3\r\n[00A3FF]Abilities[-]\r\nCodex Discipline\r\nAngels of Death\r\nHonour Guard of Macragge\r\nHeroes of Ultramar\r\nUltima Storm Shield\r\nCalgar’s Honour Guard\r\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.841463268,
+        "g": 0.841463268,
+        "b": 0.841463268
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/936084291454425187/5D39B0D9E875D357F726C4F8A5CF289961044D9F/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/936084291454424458/FB9F7E79E0D118399D7EEC599CE47644C3582B3D/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785235974151687692/CD16ABEBCD9629BAC7E4420D5DCC44D92C2586DD/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "82443b"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -3.28833222,
+        "posY": 1.4862442,
+        "posZ": 0.510143042,
+        "rotX": 0.07760885,
+        "rotY": 119.999443,
+        "rotZ": 0.02533942,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "3/3 Victrix Guard",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n6\"  2+  3+  4  4  3   4   9   2+\r\n[00A3FF]Weapons[-]\r\nPower Sword\r\nMelee  S User  AP-3  D1\r\nFrag Grenades\r\n6’’  Grenade d6  S3  AP0  D1\r\nKrak Grenades\r\n6’’  Grenade 1  S6  AP-1  Dd3\r\n[00A3FF]Abilities[-]\r\nCodex Discipline\r\nAngels of Death\r\nHonour Guard of Macragge\r\nHeroes of Ultramar\r\nUltima Storm Shield\r\nCalgar’s Honour Guard\r\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.841463268,
+        "g": 0.841463268,
+        "b": 0.841463268
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/936084291454425187/5D39B0D9E875D357F726C4F8A5CF289961044D9F/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/936084291454424458/FB9F7E79E0D118399D7EEC599CE47644C3582B3D/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785235974151687692/CD16ABEBCD9629BAC7E4420D5DCC44D92C2586DD/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "60a1dd"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -4.115151,
+        "posY": 1.50253272,
+        "posZ": 3.17334557,
+        "rotX": 0.0168653131,
+        "rotY": 179.999985,
+        "rotZ": 0.07988828,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "The Sanguinor",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/769481453903182624/84312E9A1DE0DE7F058B7BE0C433A6ABA1BBED4B/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/769481453903182935/4DC1B8D6CFBA2F73C710F6363078367D576CFB4A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/937181570521795626/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "8041e3"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -2.21929359,
+        "posY": 1.4812851,
+        "posZ": -3.4865787,
+        "rotX": -0.00436601974,
+        "rotY": 195.001663,
+        "rotZ": 0.08152762,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "7/7 Tor Garadon",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n5\"  2+  2+  4  5  7   5   9    3+\r\n[5ACFFF]Weapons[-]\r\n-Grav Gun\r\nRapFir 1 18\" S5 AP-3 D1 Sp* \n-Hand of Defiance\nMelee Sx3  AP-3  D3 Sp*\r\r\r\r\r\r\r\r\n[B41919]Abilities[-]\r\nAngels of Death\nIron Halo\nRites of Battle\nSignum Array\nSiege Captain",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/763849701484635817/E13B298E771545C91DB4F856512C6F805A76C066/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/763849701484602481/6FE214C170176FD4CFF386DABA5E42D094897D9B/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/769481639410724294/DE623BD66F73B5BAEA303E463D9ECB77B0FB1687/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "b1982b"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -1.35020125,
+        "posY": 1.48355079,
+        "posZ": 0.540255845,
+        "rotX": 0.0168735739,
+        "rotY": 180.000641,
+        "rotZ": 0.07986757,
+        "scaleX": 0.874960363,
+        "scaleY": 0.97,
+        "scaleZ": 0.874960363
+      },
+      "Nickname": "5/5 Captain Sicarius",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n6\"  2+  2+  4  4  5   4   9   2+\r\n[00A3FF]Abilities[-]\r\nCodex Discipline\r\nAngels of Death\r\nIron Halo\r\nRites of Battle\r\nBattle-forged Heroes\r\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/928178801501885978/79DF3E703F730B19360EAFFAEC41A61C4ADEA18D/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/928178801501886263/8EBED8F34DBEA22B141E7769614B09EBF662D353/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/928178801501889177/761568FBED90AB1DC1DE278894F3F5C94E8FBE05/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5000c1"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -0.6775083,
+        "posY": 1.49772918,
+        "posZ": 3.13726735,
+        "rotX": 0.0369375,
+        "rotY": 165.014526,
+        "rotZ": 0.0728322342,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Asmodai 3/3 ",
+      "Description": "WS 6\nBS 5\nS 4\nT 4\nW 3\nI 5\nA 3\nLD 10\nSave 3+/4++",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/80340220917387587/1DA99B632DC8A9F1734E520600402EC3C9230A6B/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504189454029557/FF2DBBD212F8F1F8B9E0F42F8B4F365CB9FACFDB/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "18cede"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -0.1678492,
+        "posY": 1.49505568,
+        "posZ": -3.52954,
+        "rotX": 359.955444,
+        "rotY": 224.971146,
+        "rotZ": 0.06843647,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Pedro Cantor",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/769478917112439319/068EDE245F5D2803081D98F457603D6C57271BBC/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/928178801504370867/4329619F0C2EBE03354C9BE2D047F9BCC9C36BDF/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "68ab62"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.5451201,
+        "posY": 1.49595988,
+        "posZ": 0.4792525,
+        "rotX": 359.93924,
+        "rotY": 240.002319,
+        "rotZ": 0.0545426346,
+        "scaleX": 1.05,
+        "scaleY": 1.05,
+        "scaleZ": 1.05
+      },
+      "Nickname": "Chaplain Cassius",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/769481154137474291/2E85F2E75BC2EDF6EB080E00085624E4E9A84BA6/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/769481154137481087/A5FB30C175F05023C1844E3B52066CFE65200224/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "4c5374"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 0.998700857,
+        "posY": 1.50537837,
+        "posZ": 3.20566487,
+        "rotX": 0.0369632542,
+        "rotY": 164.999573,
+        "rotZ": 0.07280494,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Azrael 4/4",
+      "Description": "WS 6\nBS 5\nS 4\nT 4\nW 4\nI 6\nA 5\nLD 10\nSave 2+/4++",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": false,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/80340220917386794/B3ED76214686BB29497DB7615A9F9B8ECFCA3CF0/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504189454029633/E68B292FD141F3EC6B7D2DAEAD2DC3C0B96C684D/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189453996327/151C0C2E002904F1B7C92B96B9CBD5930808F86A/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "38cc7c"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 1.87997341,
+        "posY": 1.47751045,
+        "posZ": 4.489347,
+        "rotX": 359.919922,
+        "rotY": 270.0028,
+        "rotZ": 0.01692393,
+        "scaleX": 0.37500003,
+        "scaleY": 0.37500003,
+        "scaleZ": 0.37500003
+      },
+      "Nickname": "Watcher in the Dark",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/929305772862730120/CB37D10BEF6E8EB8C376778C52454CBF83015DCC/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/929305772862730580/163659AC66C950FBA548573FA57B20DDF5CFEEB5/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/929305772862730120/CB37D10BEF6E8EB8C376778C52454CBF83015DCC/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.8745098,
+            "g": 0.8117647,
+            "b": 0.745098054
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "6918f8"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 3.05717468,
+        "posY": 1.503732,
+        "posZ": 3.22906923,
+        "rotX": 0.01685605,
+        "rotY": 180.004868,
+        "rotZ": 0.07988244,
+        "scaleX": 1.05,
+        "scaleY": 1.05,
+        "scaleZ": 1.05
+      },
+      "Nickname": "Belial 3/3",
+      "Description": "WS 6\nBS 5\nS 4\nT 4\nW 3\nI 5\nA 4\nLD 10\nSave 2+/4++",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": false,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/80340220917388186/23E907D19897379E79FF9C0577D094275B2C546B/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504189454029756/D364434443348D550A8030AB35B97267739975BF/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189453996327/151C0C2E002904F1B7C92B96B9CBD5930808F86A/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "2a1767"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 2.61795616,
+        "posY": 1.47569823,
+        "posZ": 0.441338718,
+        "rotX": 359.93927,
+        "rotY": 239.999039,
+        "rotZ": 0.05456342,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "5/5 Chief Librarian Tigurius",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n6\"  3+  3+  4  4   5   4   9    3+\r\n[5ACFFF]Weapons[-]\r\n-Bolt Pistol\r\nPistol 1  12\"  S4  AP0  D1\n-Rod of Tigurius\nMelee S+3  AP-3  Dd3\r\r\n-Frag & Krak Grenades\r\r\r\n[52FF33]Psychic Skills[-]\r\nCast 2 | Deny 2\r\r\r\n[B41919]Abilities[-]\r\nCodex Discipline\nScions of Guilliman\nAngels of Death\nHood of Hellfire\nMaster of Prescience",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/785235625067802971/0A76244FD375C988E7FDA37B7131644C71F470D5/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/785235625064788992/5C2F9D6E5760206EC3192D83A7E1ADD900FAF9B2/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/769481639410724294/DE623BD66F73B5BAEA303E463D9ECB77B0FB1687/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "528d9d"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 3.32117081,
+        "posY": 1.48850656,
+        "posZ": -4.37926865,
+        "rotX": 0.00440308731,
+        "rotY": 14.9999151,
+        "rotZ": 359.918457,
+        "scaleX": 0.9000001,
+        "scaleY": 0.9000001,
+        "scaleZ": 0.9000001
+      },
+      "Nickname": "Logan Grimnar on Stormrider",
+      "Description": "\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.8728223,
+        "g": 0.8728223,
+        "b": 0.8728223
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/939465706350366783/658BFEE90B2A9F721986D5B32D7B0EF8F560ADA4/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/939465706350360544/8513587492449A4B9E6CF862286D5F7344981C95/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "c457ad"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -0.7695875,
+        "posY": 1.49502277,
+        "posZ": -6.49125242,
+        "rotX": 0.0168756768,
+        "rotY": 180.000458,
+        "rotZ": 0.07988159,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "High Marshal Helbrecht",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/769481826565049291/16F75670C2DB44ED50A1C500CE3238D6C869B9A3/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/769481826565140215/724CA825646B309FEBA3EB2311366AC62A84400A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "4f8e11"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -6.447645,
+        "posY": 1.48861134,
+        "posZ": -6.40721273,
+        "rotX": 359.97464,
+        "rotY": 210.021454,
+        "rotZ": 0.07760066,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Gabriel Angelos",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/769481154129223357/E4EFD66F1205677B5784801A0974E120A84F3F10/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/769481154129223918/DB44A255C48C4C06704ABDA9D371E4FDD84277E0/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/769481154129224734/FD9B5B517EC312815DE05C75E360C4E90D0B3A9A/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "8bc16c"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 5.23465347,
+        "posY": 1.48947787,
+        "posZ": 3.104882,
+        "rotX": 0.0168344174,
+        "rotY": 180.0124,
+        "rotZ": 0.07989968,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Ezekiel",
+      "Description": "WS 5\nBS 4\nS 4\nT 4\nW 2\nI 4\nA 2\nLD 10\nSave 3+\n\nPlasma Pistol\r 12\"\r S7\r AP2\r\nPistol, Gets hot.\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/80340220917385961/A79F42CB0FF5F95D4A82C9E987B91E2C22D15C89/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504189454029834/30329681541C5F56CCA1C70F85612CB68C112F0A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "e70cbb"
+    },
+    {
+      "Name": "Custom_Assetbundle",
+      "Transform": {
+        "posX": -9.02412,
+        "posY": 1.47500765,
+        "posZ": -6.35014439,
+        "rotX": 0.0545525961,
+        "rotY": 149.999115,
+        "rotZ": 0.06074927,
+        "scaleX": 0.425000429,
+        "scaleY": 0.425000429,
+        "scaleZ": 0.425000429
+      },
+      "Nickname": "Kayvaan Shrike",
+      "Description": "M: 14\"\nWS: 2+\nBS: 2+\nS: 4\nT: 4\nW: 6\nA: 6\nLd: 9\nSv: 3+4++",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomAssetbundle": {
+        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/785237075365808002/C5C2E7070178B5A1332B901BEA426CFD0D0F850F/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 0
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "f9ea56"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -4.1291995,
+        "posY": 1.49973822,
+        "posZ": -6.382975,
+        "rotX": 0.0168932136,
+        "rotY": 179.996414,
+        "rotZ": 0.07986777,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "The Emperor's Champion",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/769481826556936935/656DF6B25AD69388DFC7EA8008897AC86268E945/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/769481826556850975/AB87F9FA02B15DE17296CC84E7D3B725D93BE63B/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "1bb165"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -11.34313,
+        "posY": 1.49311864,
+        "posZ": -6.49685955,
+        "rotX": 0.06072165,
+        "rotY": 59.99992,
+        "rotZ": 359.945435,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "Kor'sarro Khan",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921611,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/752592955300320675/3233DA288CA6483454AECEBE72C9A270C128B5DE/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/752592955300320045/71EDA748807F8F7B065330BB1196939E598C2E32/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/769481639410724294/DE623BD66F73B5BAEA303E463D9ECB77B0FB1687/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "f23d35"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -2.544004,
+        "posY": 1.49752569,
+        "posZ": -6.39036846,
+        "rotX": 0.0168915056,
+        "rotY": 179.981644,
+        "rotZ": 0.07988403,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Chaplain Grimaldus",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/769481826557042520/F4B3DB4E6C2DC7C1AE32FA60652AFAAF1DBF53D8/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/769481826556850975/AB87F9FA02B15DE17296CC84E7D3B725D93BE63B/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "464c53"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -13.4948473,
+        "posY": 1.4960835,
+        "posZ": -6.61515427,
+        "rotX": -0.0043736496,
+        "rotY": 195.00058,
+        "rotZ": 0.0815230161,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "7/7 Iron Father Feirros",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n5\"  3+  2+  4  5  7   5   9   2+\r\n[A7BDBF]Weapons[-]\r\nGorgon’s Wrath\r\n36’’  Heavy 3  S5  AP-2  D2\r\nHarrowhand\r\nMelee  S+3  AP-2  D2\r\n2 Servo-arm\r\nMelee  Sx2  AP-2  D3  Sp*\r\nBolt Pistol\r\n[A7BDBF]Abilities[-]\r\nFlesh is Weak\r\nCalculated Fury\r\nAoD\r\nSignum Array\r\nMaster of the Forge\r\nArtificer Bionics\r\nRites of Tempering\r\nBlessing of the Omnissiah\r\n",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/777357465302838681/EEF58306E880647AB64066DC3735419C929CF47D/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/777357465302839129/81E6F8110C6A2CD22A2D92A66FF00A7B18F15FDD/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/769481639410724294/DE623BD66F73B5BAEA303E463D9ECB77B0FB1687/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "53e6aa"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 7.38348436,
+        "posY": 1.50261378,
+        "posZ": 3.39688444,
+        "rotX": -0.004379882,
+        "rotY": 195.000473,
+        "rotZ": 0.08152524,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "Sammael",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": false,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/80340220917414315/CD9B2015B620EC5F0C1F26F7C10298A764F348FA/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504189454029902/26D4EC71000768E99FDDDC1A99401167C552F44A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189453996327/151C0C2E002904F1B7C92B96B9CBD5930808F86A/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "83d07c"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 7.62965155,
+        "posY": 1.47043061,
+        "posZ": -1.50322425,
+        "rotX": -0.00435390975,
+        "rotY": 194.993912,
+        "rotZ": 0.08159942,
+        "scaleX": 1.05,
+        "scaleY": 1.05,
+        "scaleZ": 1.05
+      },
+      "Nickname": "Murderfang",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/934933566931007283/619F169301603955FBC742F57DDBB918B0067E03/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/934933566931022043/3C6C5649BD213A3B24D68E979ECC2D1201827C68/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/934933566931007283/619F169301603955FBC742F57DDBB918B0067E03/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "51ea2c"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 7.0496316,
+        "posY": 1.44715619,
+        "posZ": -5.720026,
+        "rotX": 0.0777439252,
+        "rotY": 120.032829,
+        "rotZ": 0.025420228,
+        "scaleX": 1.0999999,
+        "scaleY": 1.0999999,
+        "scaleZ": 1.0999999
+      },
+      "Nickname": "Logan Grimnar",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/934933661253597167/DDCC35D6ED619CC6DE9065FC5A1B4F4E3EDC6E29/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/934933661253597460/3415B63A45A5374FF8F5AAD647C36A9BDBF9BC7F/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/934933661253597167/DDCC35D6ED619CC6DE9065FC5A1B4F4E3EDC6E29/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "d10d71"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 9.854794,
+        "posY": 1.46642327,
+        "posZ": 3.20611429,
+        "rotX": -0.004397659,
+        "rotY": 194.999863,
+        "rotZ": 0.08152696,
+        "scaleX": 1.24999976,
+        "scaleY": 1.24999976,
+        "scaleZ": 1.24999976
+      },
+      "Nickname": "6/6 Master Lazarus",
+      "Description": "M  WS BS  S  T  W  A  LD  SV\r\n6\"  2+  2+  4  4  6   5   9   3+\r\n[5ACFFF]Weapons[-]\r\n-Bolt Pistol\r\nPistol 1  12\" S4 AP0 D1 \n-Enmity’s Edge\nMelee S+2  AP-4  Dd3  Sp*\nFrag & Krak Grenades\r\r\r\r\r\r\r\r\n[B41919]Abilities[-]\r\nGrim Resolve\nRelentless Hunt\nAngels of Death\nInner Circle\nRites of Battle\nThe Spiritshield Helm\nIntractable Will",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/777368829633069498/92DC4FF6032B4D36D9BAADD6FC7D228259D0B375/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/777368829633070255/C40B8DA8F4FFEAFE9710F5B450DA1DE45E712080/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/785235625068021202/DE623BD66F73B5BAEA303E463D9ECB77B0FB1687/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "1c67d1"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 10.6134024,
+        "posY": 1.46631372,
+        "posZ": -1.35570729,
+        "rotX": 0.0169179328,
+        "rotY": 179.9933,
+        "rotZ": 0.07994347,
+        "scaleX": 1.05,
+        "scaleY": 1.05,
+        "scaleZ": 1.05
+      },
+      "Nickname": "Bjorn the Fel Handed",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/934933566931058750/B57466D1D0DD826DC846043095224DB2CF1A3F58/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/934933566931059136/BACBE07FA0CD022E2566DAA2B1FE460265B5AC6A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/934933566931058750/B57466D1D0DD826DC846043095224DB2CF1A3F58/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 1,
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "fe42d5"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 9.132153,
+        "posY": 1.49198925,
+        "posZ": -3.759794,
+        "rotX": -0.00437016739,
+        "rotY": 195.000153,
+        "rotZ": 0.08151869,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Njal Stormcaller in Terminator Armor",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": false,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/787504733807076986/42442A82A0B713CE4DBC274CD5F17B713D48C2F9/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504733807076646/66A08BD20F87B1D2D5E83B6B251A3B380F8A75EB/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189453996327/151C0C2E002904F1B7C92B96B9CBD5930808F86A/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "804d13"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 7.023321,
+        "posY": 1.48499632,
+        "posZ": -3.66511083,
+        "rotX": 0.009167707,
+        "rotY": 185.280243,
+        "rotZ": 0.07990697,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Njal Stormcaller",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/787504733806925638/69FCD0C12F1A8D107E3777949F1ADFE0D36D43CD/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787504733807087693/3B6A06602961BB267A85EFF45D5449C4B5B87A71/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "97e2b6"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 11.1414986,
+        "posY": 1.48917842,
+        "posZ": -3.79075432,
+        "rotX": 0.01686589,
+        "rotY": 179.999878,
+        "rotZ": 0.0798903853,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Arjac Rockfist",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": false,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/787505227808225116/3D60CCDF816DBF58D5D6F7E65DE0D17183E56030/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787505227808201253/73095C4CAB4F9BDDC13D80F0780429AC141A8F4D/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189453996327/151C0C2E002904F1B7C92B96B9CBD5930808F86A/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "5f1cb8"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 11.1146,
+        "posY": 1.47863746,
+        "posZ": -5.87115431,
+        "rotX": 0.0168226454,
+        "rotY": 180.022873,
+        "rotZ": 0.07987427,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Krom Dragongaze",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992160261,
+        "b": 0.9999998
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/787505227808400807/41566DD7E2AAEB0E21DC0047C39625EC96280E69/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/787505227808400156/C1A8E8EC7755BB51AF170EA3C9BF3DC3852C7ADE/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/787504189454001135/584FB18C497C094EB730BFC3AC416126ED9E924B/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "d68baf"
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 9.154577,
+        "posY": 1.46524131,
+        "posZ": -5.67934847,
+        "rotX": 359.9393,
+        "rotY": 240.000031,
+        "rotZ": 0.05456545,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Ragnar Blackmane",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.847058833,
+        "g": 0.847058833,
+        "b": 0.847058833
+      },
+      "Locked": false,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "Autoraise": false,
+      "Sticky": false,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1005932647144408214/7BEE34F3E6ABD6A6D6F69186C0940FD23C41192E/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1005932647144407755/4A56C281EA1ED09D230381EDBFA637D0A2F7DF9E/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/909072114025566405/DE623BD66F73B5BAEA303E463D9ECB77B0FB1687/",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 0,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "GUID": "d9b74e"
+    }
+  ],
+  "DecalPallet": [],
+  "TabStates": {
+    "0": {
+      "title": "Rules",
+      "body": "",
+      "color": "Grey",
+      "visibleColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "id": 0
+    },
+    "1": {
+      "title": "White",
+      "body": "",
+      "color": "White",
+      "visibleColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "id": 1
+    },
+    "2": {
+      "title": "Brown",
+      "body": "",
+      "color": "Brown",
+      "visibleColor": {
+        "r": 0.443,
+        "g": 0.231,
+        "b": 0.09
+      },
+      "id": 2
+    },
+    "3": {
+      "title": "Red",
+      "body": "",
+      "color": "Red",
+      "visibleColor": {
+        "r": 0.856,
+        "g": 0.1,
+        "b": 0.094
+      },
+      "id": 3
+    },
+    "4": {
+      "title": "Orange",
+      "body": "",
+      "color": "Orange",
+      "visibleColor": {
+        "r": 0.956,
+        "g": 0.392,
+        "b": 0.113
+      },
+      "id": 4
+    },
+    "5": {
+      "title": "Yellow",
+      "body": "",
+      "color": "Yellow",
+      "visibleColor": {
+        "r": 0.905,
+        "g": 0.898,
+        "b": 0.172
+      },
+      "id": 5
+    },
+    "6": {
+      "title": "Green",
+      "body": "",
+      "color": "Green",
+      "visibleColor": {
+        "r": 0.192,
+        "g": 0.701,
+        "b": 0.168
+      },
+      "id": 6
+    },
+    "7": {
+      "title": "Blue",
+      "body": "",
+      "color": "Blue",
+      "visibleColor": {
+        "r": 0.118,
+        "g": 0.53,
+        "b": 1.0
+      },
+      "id": 7
+    },
+    "8": {
+      "title": "Teal",
+      "body": "",
+      "color": "Teal",
+      "visibleColor": {
+        "r": 0.129,
+        "g": 0.694,
+        "b": 0.607
+      },
+      "id": 8
+    },
+    "9": {
+      "title": "Purple",
+      "body": "",
+      "color": "Purple",
+      "visibleColor": {
+        "r": 0.627,
+        "g": 0.125,
+        "b": 0.941
+      },
+      "id": 9
+    },
+    "10": {
+      "title": "Pink",
+      "body": "",
+      "color": "Pink",
+      "visibleColor": {
+        "r": 0.96,
+        "g": 0.439,
+        "b": 0.807
+      },
+      "id": 10
+    },
+    "11": {
+      "title": "Black",
+      "body": "",
+      "color": "Black",
+      "visibleColor": {
+        "r": 0.25,
+        "g": 0.25,
+        "b": 0.25
+      },
+      "id": 11
+    }
+  },
+  "VersionNumber": "v12.2.3"
+}
